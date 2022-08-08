@@ -1,0 +1,30 @@
+*{
+    font: 11pt Arial;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(233, 230, 227);
+}
+
+input{
+    width: 655px;
+    padding: 5px;
+    height: 40px;
+    margin: 10px 0px 7px 0px;
+    margin-left: 355px;
+    display: block;
+    border-radius: 5px;
+    border: 1px solid rgb(207, 202, 202);
+}
+
+#botao{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(38, 38, 247);
+    color: white;
+    border-radius: 5px;
+    margin-left: 355px;
+    border: 2px solid rgb(38, 38, 247);
+}
